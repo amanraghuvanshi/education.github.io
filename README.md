@@ -21,12 +21,11 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanraghuvanshi/)
 
-<hr><br><hr>
+<hr><p align="center"><strong>ACTION AREA</strong></p><hr>
 
 <div align="center">
   <p><strong>The Online Learning made simpler with <br>EDU.IO Systems</strong></p><br>
   <a href="https://amanraghuvanshi.github.io/education.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 
-
-Edu.IO - The education website Template
+![image](https://user-images.githubusercontent.com/110326399/210302163-558607b7-83e7-4dd2-b95c-9aedbfd483b8.png)
